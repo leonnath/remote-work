@@ -10,7 +10,10 @@
 6. [Remote ok](https://remoteok.com/)
 7. [WeRemoto](https://www.weremoto.com/)
 8. [Torre.co](https://torre.co/?r=gmjc2tWs)
-9. [laPieza](https://lapieza.io/es)
-10. [Domestica](www.google.com)
+9. [remotojob.com](https://remotojob.com/)
+10. [trabajosremotos](https://trabajosremotos.es)
+11. [lowpost.com](https://lowpost.com/)
+12. [laPieza](https://lapieza.io/es)
+13. [Domestica](www.google.com)
 
 ---
