@@ -19,6 +19,7 @@
 ---
 
 [moure](https://github.com/collections/learn-to-code)
+[plataforma de diagramas de flujo para programar](http://www.flowgorithm.org/)
 
 ## pendientes 
 
