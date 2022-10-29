@@ -18,6 +18,9 @@
 
 ---
 
+## Comandos de GitHub
+[comandos-de-github-IBM](https://www.ibm.com/docs/es/aix/7.2?topic=files-moving-renaming-mv-command)
+
 [moure](https://github.com/collections/learn-to-code)
 [plataforma de diagramas de flujo para programar](http://www.flowgorithm.org/)
 
